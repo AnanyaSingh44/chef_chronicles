@@ -1,0 +1,4 @@
+Maggi;Maggi|2|packets,;Boil Maggi
+Vegan Salad;Lettuce|1|bowl,Tomato|2|pieces,Cucumber|1|piece,;Mix all ingredients together and serve.
+Vegan Pasta;Pasta|200|grams,Olive Oil|2|tablespoons,Garlic|2|cloves,;Cook pasta, sauté garlic, mix and serve.
+Pancakes;Flour|2|cups,Eggs|2|pieces,Milk|1|cup,Sugar|2|tablespoons,Baking Powder|1|tablespoon,;Mix all ingredients. Pour onto hot griddle. Flip when bubbles form. Serve with syrup.
